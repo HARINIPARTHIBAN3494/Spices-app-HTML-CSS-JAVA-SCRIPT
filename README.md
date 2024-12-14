@@ -1,1 +1,1 @@
-# Spices-app-HTML-CSS-JAVA-SCRIPT
+# Spices-e-commerce website-HTML-CSS-JAVA-SCRIPT
